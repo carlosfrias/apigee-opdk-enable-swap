@@ -31,7 +31,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: servers
       roles:
-         - { role: opdk-enable-swap }
+         - { role: apigee-opdk-enable-swap }
 
 License
 -------

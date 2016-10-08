@@ -1,5 +1,5 @@
 ---
-# tasks file for opdk-enable-swap
+# tasks file for apigee-opdk-enable-swap
 - block:
 
   - name: Allocate swap file
